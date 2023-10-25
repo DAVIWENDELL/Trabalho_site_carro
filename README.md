@@ -16,6 +16,7 @@ No bootstrap é altamente responsivo, o que o que significa que site e aplicativ
 
 # Objetivos do Trabalho
 
+Esse trabalho visa como objetivo obter uma maior conhecimento dos frameworks para o desenvolvimento, com ele podemos conhecer sobre suas características e suas funcionalidades obtendo assim uma eficiência e qualidade maiores no desenvolvimento de aplicativos, assim atendendo as necessidades específicas do desenvolvedor ou da equipe, desse modo, com o conhecimento obtido, podemos ter futuros projetos feitos com uma maior qualidade e em menos tempo no futuro, tornando-os mais profissionais
 
 # Introdução ao Framework Escolhido
 Origem:
