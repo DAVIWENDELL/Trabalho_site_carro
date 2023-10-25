@@ -4,6 +4,7 @@
 * [Justificativa](#Justificativa)
 * [Objetivos do Trabalho](#Objetivos-do-Trabalho)
 * [Introdução ao Framework Escolhido](#Introdução-ao-Framework-Escolhido)
+* [DESENVOLVEDORES](#DESENVOLVEDORES)
 
 
 # Justificativa
