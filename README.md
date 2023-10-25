@@ -55,3 +55,7 @@ o Bootstrap é uma ferramenta valiosa para desenvolvedores web que desejam criar
 com uma base sólida, economizando tempo e esforço, garantindo uma interface consistente e responsiva. Seu 
 ecossistema ativo e sua comunidade de desenvolvedores contribuem constantemente com melhorias e recursos, 
 tornando-o uma escolha popular para projetos de desenvolvimento web modernos.
+
+# DESENVOLVEDORES
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>DAVI WENDELL FERREIRA DE LIMA</sub>]([https://github.com/camilafernanda](https://github.com/DAVIWENDELL)https://github.com/DAVIWENDELL) 
