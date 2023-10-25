@@ -57,4 +57,4 @@ ecossistema ativo e sua comunidade de desenvolvedores contribuem constantemente 
 tornando-o uma escolha popular para projetos de desenvolvimento web modernos.
 
 # DESENVOLVEDORES
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/114079742?v=4" width=115><br><sub>DAVI WENDELL FERREIRA DE LIMA</sub>]([https://github.com/camilafernanda](https://github.com/DAVIWENDELL)https://github.com/DAVIWENDELL) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/114079742?v=4" width=115><br><sub>DAVI WENDELL FERREIRA DE LIMA</sub>]([https://github.com/camilafernanda](https://github.com/DAVIWENDELL)https://github.com/DAVIWENDELL) 
