@@ -62,4 +62,4 @@ tornando-o uma escolha popular para projetos de desenvolvimento web modernos.
  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/114079742?v=4" width=115><br><sub>DAVI WENDELL FERREIRA DE LIMA</sub>](https://github.com/DAVIWENDELL) 
  [<img loading="lazy" width=115><br><sub>PEDRO PEIXOTO RABELO</sub>]()
  [<img loading="lazy"  width=115><br><sub>RENAN TAVARES CARVALHO</sub>](https://github.com/renantavares123)
- [<img loading="lazy" width=115><br><sub>VINÍCIUS YU SHIMOKOZONO TAKANO</sub>]()
+ [<img loading="lazy" width=115><br><sub>VINÍCIUS YU SHIMOKOZONO TAKANO</sub>](https://github.com/YuuFBK)
